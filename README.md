@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @catchaison
 - 👀 I’m interested in ... bioinformatics, data analysis for scientific research.
-- 🌱 I’m currently learning ... 
-<!--- 🤺 I enjoy working with ... python, R, and JavaScript ---!>
+- 🌱 I’m currently studying genetics and astrophysics at Texas A&M University. 
+- 🤺 I enjoy working with ... Python, R, and JavaScript.
 - 📫 How to reach me ... https://www.linkedin.com/in/catchaison/
 
 <!---
