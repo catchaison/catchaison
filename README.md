@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @catchaison
-- 👀 I’m interested in ... bioinformatics, data analysis for scientific research, and software development.
-- 🌱 I’m currently learning ... C++.
-- 🤺 I enjoy working with ... python, R, and JavaScript
+- 👀 I’m interested in ... bioinformatics, data analysis for scientific research.
+- 🌱 I’m currently learning ... 
+<!--- 🤺 I enjoy working with ... python, R, and JavaScript ---!>
 - 📫 How to reach me ... https://www.linkedin.com/in/catchaison/
 
 <!---
